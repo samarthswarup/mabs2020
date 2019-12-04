@@ -4,12 +4,12 @@ title: "Committees"
 permalink: /committees/
 ---
 
-# Program Chairs
+## Program Chairs
 
 * [Samarth Swarup](http://people.virginia.edu/~ss7rs) (University of Virginia, USA)
 * [Tony Savarimuthu](http://waitaki.otago.ac.nz/~tonyr/) (University of Otago, NZ)
 
-# The MABS Steering Committee
+## The MABS Steering Committee
 
 * [Frédéric Amblard](http://simsoc.free.fr/) (University of Toulouse, France)
 * [Luis Antunes](http://www.di.fc.ul.pt/~xarax/) (University of Lisbon, Portugal)
@@ -21,4 +21,4 @@ permalink: /committees/
 * [Jaime Simão Sichman](http://www.pcs.usp.br/~jaime/) (University of São Paulo, Brazil)
 * [Takao Terano](http://www.trn.dis.titech.ac.jp/GEAR/index.html) (Tokyo Institute of Technology, Japan)
 
-# Program Committee
+## Program Committee
