@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Topics of Interest"
-    url: /topics/
+    url: /docs/topics/
   - title: "Call for Papers"
     url: /cfp/
   - title: "Important Dates"
