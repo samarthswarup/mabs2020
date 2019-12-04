@@ -4,7 +4,6 @@ title: "Important Dates"
 permalink: /dates/
 ---
 
-## IMPORTANT DATES
 
 * Submission deadline: **February 5, 2020**
 * Notification of acceptance/rejection: March 10, 2020

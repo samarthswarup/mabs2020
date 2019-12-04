@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Topics of Interest"
-    url: /topics/
+#  - title: "Topics of Interest"
+#    url: /topics/
   - title: "Call for Papers"
     url: /cfp/
-  - title: "Important Dates"
-    url: /dates/
+#  - title: "Important Dates"
+#    url: /dates/
   - title: "Submission Details"
     url: /submission/
   # - title: "About"
