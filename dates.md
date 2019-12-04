@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Important Dates"
 permalink: /dates/
+---
 
 ## IMPORTANT DATES
 

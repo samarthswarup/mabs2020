@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Call for Papers"
 permalink: /cfp/
+---
 
 [MABS 2020](https://samarthswarup.github.io/mabs2020) is part of [AAMAS 2019](https://aamas2020.conference.auckland.ac.nz/) taking place in Auckland, NZ, May 9-13 2020.
 
