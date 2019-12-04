@@ -1,6 +1,8 @@
+---
 layout: home
 title: "Topics of Interest"
 permalink: /topics/
+---
 
 The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive.
 Topics relevant to this workshop include, but are not limited to, the following:
