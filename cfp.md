@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Call for Papers"
 permalink: /cfp/
 ---
