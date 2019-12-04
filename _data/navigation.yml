@@ -8,6 +8,8 @@ main:
 #    url: /dates/
   - title: "Submission Details"
     url: /submission/
+  - title: "Committees"
+    url: /committees/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
