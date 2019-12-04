@@ -2,6 +2,12 @@
 main:
   - title: "Topics of Interest"
     url: /topics/
+  - title: "Call for Papers"
+    url: /cfp/
+  - title: "Important Dates"
+    url: /dates/
+  - title: "Submission Details"
+    url: /submission/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
