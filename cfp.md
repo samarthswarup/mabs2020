@@ -59,12 +59,3 @@ research that is complementary to more orthodox modelling approaches.
 * Camera-ready submission deadline: April 10, 2020
 * Workshop dates: May 9 or 10, 2020
 
-## INSTRUCTIONS FOR AUTHORS
-
-Papers are limited to 12 pages, including bibliography, in PDF format. Submission is single-blinded: it is up to the authors to
-put or not their identification and afiliation. Submission must be formatted according to the Springer LNCS and must be
-electronically submitted before the submission deadline through the workshop conference system, which is available at
-
-[https://easychair.org/conferences/?conf=mabs2020](https://easychair.org/conferences/?conf=mabs2020)
-
-All contributions will be peer-reviewed by at least two independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop's aims.
