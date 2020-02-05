@@ -54,7 +54,7 @@ research that is complementary to more orthodox modelling approaches.
 
 ## IMPORTANT DATES
 
-* --Submission deadline: February 5, 2020--
+* ~~Submission deadline: February 5, 2020~~
 * **Extended submission deadline: Feb 16, 2020**
 * Notification of acceptance/rejection: March 10, 2020
 * Camera-ready submission deadline: April 10, 2020
