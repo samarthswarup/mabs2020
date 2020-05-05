@@ -4,8 +4,6 @@ title: "Accepted Papers"
 permalink: /accepted/
 ---
 
-## Accepted Papers
-
 * [Adaptivity in distributed agent-based simulation: A generic load-balancing approach](papers/MABS_2020_paper_2.pdf), Stig Bosmans, Toon Bogaerts, Wim Casteels, Siegfried Mercelis, Joachim Denil and Peter Hellinckx
 * [Trajectory Modelling in Shared Spaces: Expert-Based vs. Deep Learning Approach](papers/MABS_2020_paper_3.pdf), Hao Cheng, Fatema T. Johora, Monika Sester and Jörg P. Müller
 * [Towards Agent-Based Traffic Simulation Using Live Data from Sensors for Smart Cities](papers/MABS_2020_paper_4.pdf), Johan Barthelemy, Yan Qian and Pascal Perez
