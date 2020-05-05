@@ -2,12 +2,16 @@
 main:
 #  - title: "Topics of Interest"
 #    url: /topics/
-  - title: "Call for Papers"
-    url: /cfp/
+  #- title: "Call for Papers"
+  #  url: /cfp/
 #  - title: "Important Dates"
 #    url: /dates/
-  - title: "Submission Details"
-    url: /submission/
+  #- title: "Submission Details"
+  #  url: /submission/
+  - title: "Accepted Papers"
+    url: /accepted/
+  - title: "Program"
+    url: /program/
   - title: "Committees"
     url: /committees/
   # - title: "About"
@@ -18,3 +22,4 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
