@@ -4,11 +4,11 @@ title: "Program"
 permalink: /program/
 ---
 
-The accepted papers are linked on the [Accepted Papers page](../accepted). Video presentations of the papers will be available through [underline.io](https://www.underline.io/conferences/19?trackId=19#lectureListContainer).
+The accepted papers and video presentations that are available are linked on the [Accepted Papers page](../accepted). All video presentations of the papers are available through [underline.io](https://www.underline.io/conferences/19?trackId=19#lectureListContainer).
 
 A two-hour virtual meeting, via Zoom, was held on May 10, 2020, at 11 am UTC. The agenda for the virtual meeting is given below.
 
-In the first hour, there were six presentations on the topic of "The role of multi-agent-based simulation in addressing global problems".
+In the first hour, there were six presentations on the topic: "The role of multi-agent-based simulation in addressing global problems".
 
 | Speaker(s)                                                                | Topic                       | Time slot (in minutes)|
 | ----------------------------                                              | -----------                 |-------------|
