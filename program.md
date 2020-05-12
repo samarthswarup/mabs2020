@@ -10,7 +10,7 @@ A two-hour virtual meeting, via Zoom, was held on May 10, 2020, at 11 am UTC. Th
 
 In the first hour, there were six presentations on the topic of "The role of multi-agent-based simulation in addressing global problems".
 
-| Speaker(s)                                                                | Topic                       | Time slot |
+| Speaker(s)                                                                | Topic                       | Time slot (in minutes)|
 | ----------------------------                                              | -----------                 |-------------|
 | Professor Frank Dignum (Invited Speaker)                                  | COVID-19 simulation         | 15 + 5
 | Dr Maite Lopez-Sanchez and Dr Cristian Jimenez                            | COVID-19 simulation         | 5 |
