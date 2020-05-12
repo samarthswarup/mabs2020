@@ -8,8 +8,7 @@ The accepted papers are linked on the [Accepted Papers page](../accepted). Video
 
 A two-hour virtual meeting, via Zoom, was held on May 10, 2020, at 11 am UTC. The agenda for the virtual meeting is given below.
 
-In the first hour, there were seven presentations on the topic of 
-"The role of multi-agent-based simulation in addressing global problems".
+In the first hour, there were six presentations on the topic of "The role of multi-agent-based simulation in addressing global problems".
 
 | Speaker(s)                                                                | Topic                       | Time slot |
 | ----------------------------                                              | -----------                 |-------------|
